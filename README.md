@@ -1,5 +1,5 @@
 # Aikanaro
 
-## Well, hello there.
+Well, hello there.
 
 👋
