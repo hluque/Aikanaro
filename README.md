@@ -1,2 +1,5 @@
 # Aikanaro
-My personal repository
+
+## Well, hello there.
+
+👋
